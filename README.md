@@ -2,6 +2,8 @@
 
 Welcome to the Dynamic To-Do List App! This application is designed to help users manage their tasks efficiently by allowing them to create, update, delete, and categorize tasks dynamically.
 
+## Hosted Link:- https://dynamic-todo-chi.vercel.app/
+
 ## Features
 
 - Create, update, and delete tasks in real-time.
@@ -37,5 +39,5 @@ To get started with this project, follow the steps below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/dynamic-to-do-list-app.git
-   cd dynamic-to-do-list-app
+   git clone https://github.com/yourusername/dynamic-todo-app.git
+   cd dynamic-todo-app
